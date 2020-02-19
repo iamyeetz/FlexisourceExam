@@ -1,0 +1,11 @@
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\bin\Debug\netstandard2.0\opg-201910-interview.Service.deps.json
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\bin\Debug\netstandard2.0\opg-201910-interview.Service.dll
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\bin\Debug\netstandard2.0\opg-201910-interview.Service.pdb
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\bin\Debug\netstandard2.0\opg-201910-interview.Model.dll
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\bin\Debug\netstandard2.0\opg-201910-interview.Model.pdb
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\obj\Debug\netstandard2.0\opg-201910-interview.Service.csprojAssemblyReference.cache
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\obj\Debug\netstandard2.0\opg-201910-interview.Service.AssemblyInfoInputs.cache
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\obj\Debug\netstandard2.0\opg-201910-interview.Service.AssemblyInfo.cs
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\obj\Debug\netstandard2.0\opg-201910-interview.Service.csproj.CopyComplete
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\obj\Debug\netstandard2.0\opg-201910-interview.Service.dll
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Service\obj\Debug\netstandard2.0\opg-201910-interview.Service.pdb
