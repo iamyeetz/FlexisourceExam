@@ -1,0 +1,8 @@
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Model\bin\Debug\netstandard2.0\opg-201910-interview.Model.deps.json
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Model\bin\Debug\netstandard2.0\opg-201910-interview.Model.dll
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Model\bin\Debug\netstandard2.0\opg-201910-interview.Model.pdb
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Model\obj\Debug\netstandard2.0\opg-201910-interview.Model.csprojAssemblyReference.cache
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Model\obj\Debug\netstandard2.0\opg-201910-interview.Model.AssemblyInfoInputs.cache
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Model\obj\Debug\netstandard2.0\opg-201910-interview.Model.AssemblyInfo.cs
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Model\obj\Debug\netstandard2.0\opg-201910-interview.Model.dll
+C:\Users\yeetz\Desktop\FlexisourceExam\opg-201910Base-master\opg-201910-interview.Model\obj\Debug\netstandard2.0\opg-201910-interview.Model.pdb
